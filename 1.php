@@ -1,6 +1,3 @@
-<?php
-class A{
-        public function __constatus(){
-            
-        }
-    }
+<?<?php
+header("content-type:text/html;charset=utf-8");
+?>
